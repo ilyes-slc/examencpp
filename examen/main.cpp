@@ -1,9 +1,12 @@
 #include <iostream>
 
 using namespace std;
-
+#include "compagnie.h"
 int main()
 {
-    cout << "Hello world!" << endl;
+    compagnie C;
+    C.ajouterVoyage();
+    C.ajouterVoyageur();
+    C.affectervoyage();
     return 0;
 }

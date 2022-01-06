@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1641455574 source:c:\users\ilyes\onedrive\bureau\examencpp\examen\main.cpp
+	<iostream>
+	"compagnie.h"
+
+1641456329 c:\users\ilyes\onedrive\bureau\examencpp\examen\include\compagnie.h
+	<string>
+	<vector>
+	"voyage.h"
+	"voyageur.h"
+	<iostream>
+
+1641455928 c:\users\ilyes\onedrive\bureau\examencpp\examen\include\voyage.h
+	<iostream>
+
+1641456107 c:\users\ilyes\onedrive\bureau\examencpp\examen\include\voyageur.h
+	<string>
+	<iostream>
+
+1641452825 source:c:\users\ilyes\onedrive\bureau\examencpp\examen\src\croisiere.cpp
+	"croisiere.h"
+
+1641453572 c:\users\ilyes\onedrive\bureau\examencpp\examen\include\croisiere.h
+	<voyage.h>
+	<vector>
+
+1641452762 source:c:\users\ilyes\onedrive\bureau\examencpp\examen\src\voyage.cpp
+	"voyage.h"
+
+1641455717 source:c:\users\ilyes\onedrive\bureau\examencpp\examen\src\voyageur.cpp
+	"voyageur.h"
+
